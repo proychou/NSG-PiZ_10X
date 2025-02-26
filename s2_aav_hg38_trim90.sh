@@ -3,8 +3,7 @@
 #SBATCH -c 16
 #SBATCH -t 2
 #SBATCH --mem 320G
-#SBATCH --mail-type=FAIL
-#SBATCH --mail-user=ssathees@fredhutch.org
+
 source /app/lmod/lmod/init/profile
 #################################
 
